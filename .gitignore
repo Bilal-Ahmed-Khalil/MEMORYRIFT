@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-log.txt
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Flask / runtime
+instance/
+*.sqlite3
+*.db
+flask_session/
+
+# Compiled payloads (don't commit built .exe files)
+gui/payloads/*.exe
+
+# Downloaded / exfiltrated files (runtime data)
+gui/downloads/
+gui/screenshots/
+gui/keylogs/
+gui/uploads/
+
+# Logs
+*.log
+*.log.*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Compiled C objects
+*.o
+*.obj
+*.out
+
+# OS
+.DS_Store
+desktop.ini
