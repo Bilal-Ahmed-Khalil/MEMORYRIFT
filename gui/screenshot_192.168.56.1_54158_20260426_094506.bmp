@@ -1,0 +1,26 @@
+04/24/2026  10:00 AM    <DIR>          .
+04/24/2026  10:00 AM    <DIR>          ..
+04/24/2026  10:00 AM               123 secret.txt
+
+OS Name: Microsoft Windows 11 Pro
+OS Version: 10.0.22621
+
+
+Command 'cmd' executed successfully.
+
+ Volume in drive C has no label.
+ Directory of C:\Users\Victim
+
+04/24/2026  10:00 AM    <DIR>          .
+04/24/2026  10:00 AM    <DIR>          ..
+04/24/2026  10:00 AM               123 secret.txt
+
+ Volume in drive C has no label.
+ Directory of C:\Users\Victim
+
+04/24/2026  10:00 AM    <DIR>          .
+04/24/2026  10:00 AM    <DIR>          ..
+04/24/2026  10:00 AM               123 secret.txt
+
+Command 'ls' executed successfully.
+
